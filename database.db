@@ -1,0 +1,4 @@
+{"username":"Schleimfresse1","email":"example@mail.de","password":"$2a$08$imGgzTzw9KCR51RSiqZXm.eqLK2A3v5r1viv.v8240MIxldoh.dFm","roles":[],"_id":"2VDkzNwlfqkS5PhT"}
+{"username":"Schleimfresse","email":"example@mail.com","password":"$2a$08$Voti1QNnUQvt8wINptjpi.Zyvl5ldsfotJJmvA9djYfsbQ8jxZffO","_id":"7ZKHD1KNcfcmE8mL"}
+{"username":"Schleimfresse","email":"example@mail.com","password":"$2a$08$Voti1QNnUQvt8wINptjpi.Zyvl5ldsfotJJmvA9djYfsbQ8jxZffO","roles":[],"_id":"8sAolqz6zXm6yAx5"}
+{"username":"Schleimfresse1","email":"example@mail.de","password":"$2a$08$imGgzTzw9KCR51RSiqZXm.eqLK2A3v5r1viv.v8240MIxldoh.dFm","roles":["user","moderator"],"_id":"nGyQ0klApHPtIZAK"}
